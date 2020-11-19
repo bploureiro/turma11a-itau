@@ -6,6 +6,6 @@
   $i = 6;
   $i = $i * 350;
 
-  echo " REALIZANDO UM TESTE SIMPLES $i";
+  echo " RESULTADO DO CALCULO: $i";
   ?>
 </h4>
